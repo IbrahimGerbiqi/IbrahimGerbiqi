@@ -7,11 +7,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Msc Business Informatics-University of Mannheim, Bsc Computer Science-National University of Computer & Emerging Sciences.
-- 💼 &nbsp; SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
-- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 💼 &nbsp; Software Developer at ASTech-Advanced Systems & Technologies.
+- 💭 &nbsp; Diving deeper into the realm of web development.
+- 🍭 &nbsp; Fishing, working out and fragrances as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
